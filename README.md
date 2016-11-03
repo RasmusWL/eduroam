@@ -51,7 +51,7 @@ name of your wireless interface)
 sudo systemctl stop NetworkManager.service
 ```
 
-#### 2. Connect to the wireless network
+#### 2. Connect to the wireless network (this process will continue to live as long as you are connected)
 
 ``` shell
 sudo wpa_supplicant -i <wireless-interface> -c eduroam.conf
