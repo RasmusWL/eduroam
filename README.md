@@ -23,7 +23,7 @@ the flags yourself.
 This guide assumes you are running Ubuntu 16.04 (and that you are at the
 University of Copenhagen).
 
-You need to create a file that will contain the configuration for eduroam --
+You need to create a file that will contain the configuration for eduroam (remember to fill in your own details) --
 `eduroam.conf`:
 
 ```
